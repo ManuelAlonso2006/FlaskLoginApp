@@ -32,16 +32,18 @@ Para descagargar flask en windows abre el cmd o powershell y ejecuta el siguient
    ```python
     pip install flask
 ##
-5) Instrucciones de uso en linux  
-   1) Navega hasta la carpeta en la que esta descargado el proyecto atraves del explorador de archivos
-   2) Haz clic derecho en la carpeta y selecciona la opción "Abrir en un terminal" y ejecuta el siguiente comando.
+5) Instrucciones de uso en linux
+   1) Descomprime la carpeta llamada FlaskLoginApp.zip
+   2) Navega hasta la carpeta en la que esta descargado el proyecto atraves del explorador de archivos
+   3) Haz clic derecho en la carpeta y selecciona la opción "Abrir en un terminal" y ejecuta el siguiente comando.
    ```python
     python3 app.py
 Esto iniciará el servidor y te proporcionará una URL en localhost, como:
 http://127.0.0.1:5002
 ##
 6) Instrucciones de uso en windows
-   1) Navega hasta la carpeta en la que esta descargado el proyecto atraves del explorador de archivos
+   1) Descomprime la carpeta llamada FlaskLoginApp.zip
+   2) Navega hasta la carpeta en la que esta descargado el proyecto atraves del explorador de archivos
    2) Haz clic derecho en la carpeta y selecciona la opción "Abrir en terminal" y ejecuta el siguiente comando:
    ```python
     python app.py
