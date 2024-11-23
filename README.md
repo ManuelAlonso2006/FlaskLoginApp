@@ -27,7 +27,7 @@ Una vez instalado Python debes descargar Flask, en linux ejecuta el siguiente co
    ```python
     sudo apt install python3-flask
 ##
-4) Descargar Flaks en windows  
+4) Descargar Flask en windows  
 Para descagargar flask en windows abre el cmd o powershell y ejecuta el siguiente comando:
    ```python
     pip install flask
